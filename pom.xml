@@ -24,7 +24,7 @@
         <profile>
             <id>prod</id>
             <properties>
-                <env>1.1.1-RELEASE</env>
+                <env>1.0.1-RELEASE</env>
                 <fileName>prod</fileName>
             </properties>
         </profile>
@@ -38,7 +38,7 @@
         <profile>
             <id>dev</id>
             <properties>
-                <env>1.0.2-SNAPSHOT</env>
+                <env>1.0.1-SNAPSHOT</env>
                 <fileName>dev</fileName>
             </properties>
         </profile>
